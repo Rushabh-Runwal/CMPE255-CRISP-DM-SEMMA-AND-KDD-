@@ -1,1 +1,8 @@
-# CMPE255-CRISP-DM-SEMMA-AND-KDD-
+# CMPE255 Assignemnt
+CRISP_DM:
+
+
+SEMMA:
+
+
+KDD:
